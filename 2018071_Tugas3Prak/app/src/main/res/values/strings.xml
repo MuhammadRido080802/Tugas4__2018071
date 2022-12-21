@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2018071_Tugas3Prak</string>
+    <string name="navigation_drawer_open">Open Navigation
+        Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation
+        Drawer</string>
+        <string name="deskription_menu" />
+        <string name="ingredients" />
+        <string name="Resep" />
+        <string name="price" />
+        <string name="Harga_Cenil" />
+</resources>
